@@ -42,11 +42,11 @@
 <details open> 
   <summary><h2>📝 Assessment Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/eskielsantana/Vitruvi-Hiring-Angular"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=Vitruvi-Hiring-Angular&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
-    <a href="https://github.com/eskielsantana/Hootsuite-Hiring-Java"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=Hootsuite-Hiring-Java&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
-    <a href="https://github.com/eskielsantana/Clariti-Hiring-Java"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=Clariti-Hiring-Java&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
-    <a href="https://github.com/eskielsantana/Enrich-Hiring-Java"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=Enrich-Hiring-Java&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
-    <a href="https://github.com/eskielsantana/SkipTheDishes-Hiring-Java"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=SkipTheDishes-Hiring-Java&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
+    <a href="https://github.com/eskielsantana/Vitruvi-Hiring-Angular"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=Vitruvi-Hiring-Angular&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
+    <a href="https://github.com/eskielsantana/Hootsuite-Hiring-Java"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=Hootsuite-Hiring-Java&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
+    <a href="https://github.com/eskielsantana/Clariti-Hiring-Java"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=Clariti-Hiring-Java&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
+    <a href="https://github.com/eskielsantana/Enrich-Hiring-Java"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=Enrich-Hiring-Java&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
+    <a href="https://github.com/eskielsantana/SkipTheDishes-Hiring-Java"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=SkipTheDishes-Hiring-Java&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
   </p>
 </details>
 
@@ -55,8 +55,8 @@
 <details open> 
   <summary><h2>🎮 Games I have developed so far</h2></summary>
   <p align="left">
-    <a href="https://github.com/eskielsantana/idlegame"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=idlegame&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
-    <a href="https://github.com/eskielsantana/puzzlegame"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=puzzlegame&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"></a>
+    <a href="https://github.com/eskielsantana/idlegame"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=idlegame&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
+    <a href="https://github.com/eskielsantana/puzzlegame"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=puzzlegame&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
   </p>
 </details>
 

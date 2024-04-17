@@ -5,23 +5,23 @@
 ###
 
 <div align="center">
-    <a href="https://www.java.com/en/"><img height="30" src="https://github.com/eskielsantana/eskielsantana/raw/master/icons/java-original.svg" alt="java logo" /></a>
+    <a href="https://www.java.com/en/"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/java-original.svg" alt="java logo" /></a>
     <img width="12" />
-    <a href="https://react.dev"><img height="30" src="https://github.com/eskielsantana/eskielsantana/raw/master/icons/react.svg" alt="react logo" /></a>
+    <a href="https://react.dev"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/react.svg" alt="react logo" /></a>
     <img width="12" />
-    <a href="https://angular.io/"><img height="30" src="https://github.com/eskielsantana/eskielsantana/raw/master/icons/file-type-angular.svg" alt="angular logo" /></a>
+    <a href="https://angular.io/"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/file-type-angular.svg" alt="angular logo" /></a>
     <img width="12" />
-    <a href="https://www.python.org/"><img height="30" src="https://github.com/eskielsantana/eskielsantana/raw/master/icons/python.svg" alt="python logo" /></a>
+    <a href="https://www.python.org/"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/python.svg" alt="python logo" /></a>
     <img width="12" />
-    <a href="https://www.mysql.com"><img height="30" src="https://github.com/eskielsantana/eskielsantana/raw/master/icons/mysql-icon.svg" alt="html5 logo" /></a>
+    <a href="https://www.mysql.com"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/mysql-icon.svg" alt="html5 logo" /></a>
     <img width="12" />
-    <a href="https://www.postgresql.org/"><img height="30" src="https://github.com/eskielsantana/eskielsantana/raw/master/icons/postgresql.svg" alt="postgresql logo" /></a>
+    <a href="https://www.postgresql.org/"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/postgresql.svg" alt="postgresql logo" /></a>
     <img width="12" />
-    <a href="https://www.oracle.com/ca-en/database"><img height="30" src="https://github.com/eskielsantana/eskielsantana/raw/master/icons/oracle-icon.svg" alt="oracle logo" /></a>
+    <a href="https://www.oracle.com/ca-en/database"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/oracle-icon.svg" alt="oracle logo" /></a>
     <img width="12" />
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="30" src="https://github.com/eskielsantana/eskielsantana/raw/master/icons/csharp.svg" alt="csharp logo" /></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/csharp.svg" alt="csharp logo" /></a>
     <img width="12" />
-    <a href="https://unity.com/"><img height="30" src="https://github.com/eskielsantana/eskielsantana/raw/master/icons/unity3d.svg" alt="unity3d logo" /></a>
+    <a href="https://unity.com/"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/unity3d.svg" alt="unity3d logo" /></a>
 </div>
 
 ###

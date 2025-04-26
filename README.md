@@ -1,6 +1,10 @@
 <h2 align="center">Hi 👋! My name is Ezequiel</h2>
 
-<h4 align="center">I am a Software Engineer with Bachelor's degree in Analysis and Systems Development.</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-Full%20Stack-833AB4" alt="Software Engineer - Full Stack" />
+</div>
+
+<h4 align="center">I am a seasoned Software Engineer with a Bachelor's degree in Analysis and Systems Development, specializing in Java backend development and a wealth of experience in the industry.</h4>
 
 ###
 
@@ -27,34 +31,28 @@
 ###
 
 <details open> 
-  <summary><h2>🧠 Random stuff about me</h2></summary>
+  <summary><h2>👨‍💻 About Me</h2></summary>
     <ul>
-        <li>I am brazilian but I moved to Canada in 2018.</li>
-        <li>Although I am a Fullstack developer, I love the backend side of the force.</li>
-        <li>My dream is having a game released on <a href="https://store.steampowered.com/">Steam platform</a>.</li>
-        <li>Reverse engineer on games and applications is my favorite hobby.</li>
-        <li>Another great hobby I have is taking photos of environments and animals, you can check some of my photos at my <a href="https://www.instagram.com/fotos_vitoriaandezequiel/">photos instagram</a>.</li>
+        <li>🇧🇷 Brazilian developer living in 🇨🇦 Canada since 2018</li>
+        <li>💼 Currently working as Software Engineer at <a href="https://www.linkedin.com/company/vitruvi-software">Vitruvi™ Software</a></li>
+        <li>🔙 Backend enthusiast with full stack capabilities</li>
+        <li>🎮 Aspiring game developer with a dream to release a game on Steam</li>
+        <li>🕹️ Enjoy reverse engineering games and applications as a hobby</li>
+        <li>📸 Amateur photographer - check out my <a href="https://www.instagram.com/fotos_vitoriaandezequiel/">photography on Instagram</a></li>
+        <li>📚 Currently learning Artificial Intelligence, Large Language Models (LLMs), and Automation Technologies.</li>
     </ul>
 </details>
 
 ###
 
 <details open> 
-  <summary><h2>📝 Assessment Projects</h2></summary>
+  <summary><h2>📝 Featured Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/eskielsantana/Vitruvi-Hiring-Angular"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=Vitruvi-Hiring-Angular&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
     <a href="https://github.com/eskielsantana/Hootsuite-Hiring-Java"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=Hootsuite-Hiring-Java&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
     <a href="https://github.com/eskielsantana/Clariti-Hiring-Java"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=Clariti-Hiring-Java&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
     <a href="https://github.com/eskielsantana/Enrich-Hiring-Java"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=Enrich-Hiring-Java&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
     <a href="https://github.com/eskielsantana/SkipTheDishes-Hiring-Java"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=SkipTheDishes-Hiring-Java&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
-  </p>
-</details>
-
-###
-
-<details open> 
-  <summary><h2>🎮 Games I have developed so far</h2></summary>
-  <p align="left">
     <a href="https://github.com/eskielsantana/idlegame"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=idlegame&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
     <a href="https://github.com/eskielsantana/puzzlegame"><img width="278" src="https://github-readme-stats.vercel.app/api/pin?username=eskielsantana&repo=puzzlegame&title_color=fff&icon_color=f9f9f9&text_color=fff&bg_color=833AB4"></a>
   </p>

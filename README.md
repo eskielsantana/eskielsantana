@@ -17,7 +17,9 @@
     <img width="12" />
     <a href="https://www.python.org/"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/python.svg" alt="python logo" /></a>
     <img width="12" />
-    <a href="https://www.mysql.com"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/mysql-icon.svg" alt="html5 logo" /></a>
+    <a href="https://playwright.dev/"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/playwright.svg" alt="playwright logo" /></a>
+    <img width="12" />
+    <a href="https://www.mysql.com"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/mysql-icon.svg" alt="mysql logo" /></a>
     <img width="12" />
     <a href="https://www.postgresql.org/"><img height="30" src="https://raw.githubusercontent.com/eskielsantana/eskielsantana/master/icons/postgresql.svg" alt="postgresql logo" /></a>
     <img width="12" />

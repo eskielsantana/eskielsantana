@@ -64,19 +64,19 @@
 <br clear="both">
 
 <p align="center">
-    <a href="https://eskiel.ca/">
+    <a href="https://eskiel.ca/" style="text-decoration: none;">
         <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codementor&label=&color=833AB4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
     </a>
-    <a href="https://www.instagram.com/eskielsantana/">
+    <a href="https://www.instagram.com/eskielsantana/" style="text-decoration: none;">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
     </a>
-    <a href="mailto:eskielsantana@gmail.com">
+    <a href="mailto:eskielsantana@gmail.com" style="text-decoration: none;">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
     </a>
-    <a href="https://www.linkedin.com/in/ezequiel-santana/">
+    <a href="https://www.linkedin.com/in/ezequiel-santana/" style="text-decoration: none;">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
     </a>
-    <a href="https://discordapp.com/users/353374992857038849">
+    <a href="https://discordapp.com/users/353374992857038849" style="text-decoration: none;">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
     </a>
 </p>
